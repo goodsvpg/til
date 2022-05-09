@@ -1,6 +1,7 @@
 package twentytwo.may;
 
 import org.junit.jupiter.api.Test;
+import twentytwo.may.six.MapQuiz;
 
 import java.util.Arrays;
 import java.util.List;

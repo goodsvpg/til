@@ -1,4 +1,4 @@
-package twentytwo.may;
+package twentytwo.may.six;
 
 import java.util.List;
 import java.util.stream.Collectors;
