@@ -1,4 +1,4 @@
-package twentytwo.may.six;
+package modernjava.chap5.quiz.exception;
 
 import java.util.List;
 import java.util.stream.Collectors;

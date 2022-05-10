@@ -1,7 +1,7 @@
-package twentytwo.may;
+package modernjava.chap5;
 
 import org.junit.jupiter.api.Test;
-import twentytwo.may.six.MapQuiz;
+import modernjava.chap5.quiz.exception.MapQuiz;
 
 import java.util.Arrays;
 import java.util.List;

@@ -1,9 +1,8 @@
-package twentytwo.may.seven;
+package modernjava.chap5.quiz;
 
-import twentytwo.may.seven.exception.TransactionDoesNotExistException;
+import modernjava.chap5.quiz.exception.TransactionDoesNotExistException;
 
 import java.util.Arrays;
-import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
 

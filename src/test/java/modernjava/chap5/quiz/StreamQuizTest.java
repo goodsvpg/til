@@ -1,4 +1,4 @@
-package twentytwo.may.seven;
+package modernjava.chap5.quiz;
 
 import org.junit.jupiter.api.Test;
 
